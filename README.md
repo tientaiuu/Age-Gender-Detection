@@ -19,6 +19,7 @@ UTK dataset
 - **Random Forest:** Effective but not as accurate as SVM for this dataset.
 ### Testing
 - Chạy thử kết quả sau khi train models:
+  
 ![markdown](images/1.png)
 ![markdown](images/2.png)
 ![markdown](images/3.png)
